@@ -83,8 +83,12 @@
     margin-bottom: 90px;
 }
 
+.min-top-mar{
+	margin-top: -50px;
+}
+
 .section{
-    padding-top: 0px;
+    padding-top: 100px;
     padding-bottom: 100px;
 }
 
